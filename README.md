@@ -3,13 +3,16 @@
 To run:
 
 1. Install the requirements from requirements.txt
-2. Inside front-end folder
+    ```
+        pip install requirements.txt
+    ```
+3. Inside front-end folder run the server
     ```
         npm install
         npm run dev
     ```
-3. Inside backend folder
+4. Inside backend folder run the server
     ```
         python manage.py runserver
     ```
-4. Open http://localhost:5173/
+5. Open http://localhost:5173/
