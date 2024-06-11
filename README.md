@@ -2,7 +2,7 @@
 
 To run:
 
-1. Install the requirements from requirements.txt
+1. Install the requirements
     ```
         pip install django djangorestframework django-cors-headers
     ```
