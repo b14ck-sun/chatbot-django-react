@@ -4,7 +4,7 @@ To run:
 
 1. Install the requirements from requirements.txt
     ```
-        pip install requirements.txt
+        pip install django djangorestframework django-cors-headers
     ```
 3. Inside front-end folder run the server
     ```
